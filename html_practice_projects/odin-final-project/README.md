@@ -1,0 +1,1 @@
+This is an exercise from The Odin Project of creating a recipe website using HTML without any styling. The challenge is to create an index page which has links to different recipes, which will be in different HTML files with the final project directory.
